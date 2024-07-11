@@ -28,8 +28,8 @@ nav ul {
 }
 
 .active {
-  background-color: #FF1414;
-  color: #ffffff;
+  background-color: #40a81a;
+  color: #31b573;
   box-shadow: 5px 10px 30px rgba(198, 64, 64, 0.411);
   transition: all ease 0.2s;
 }
