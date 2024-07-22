@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container } from 'react-bootstrap';
+import { Button, Container } from 'react-bootstrap';
 import Carousel from 'react-bootstrap/Carousel';
 
 
@@ -12,7 +12,7 @@ const Banner = () => {
             description: 'Nulla vitae elit libero, a pharetra augue mollis interdum.',
         },
         {
-            src: './images/banner2.jpg',
+            src: './images/banner1.jpg',
             label: 'Second slide label',
             description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
         },
